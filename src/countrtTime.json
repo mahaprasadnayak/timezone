@@ -1,0 +1,16 @@
+{
+    "metaData": [
+        {
+            "country": "India",
+            "timeUtc": 5.5
+        },
+        {
+            "country": "London",
+            "timeUtc": 0.0
+        },
+        {
+            "country": "Singapore",
+            "timeUtc": 8.0
+        }
+    ]
+}

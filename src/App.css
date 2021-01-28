@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.card{
+  border-radius: 0.5rem!important;
+}
+.marginTop{
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.btnCountry{
+  margin: 0% 80px!important;
+  height: 50px!important;
+  width: 150px!important;
+  border-radius: 5px!important;
+  background: #e03fea!important;
+  color: #fff;
+  outline: none!important;
+}
